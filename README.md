@@ -42,8 +42,6 @@ I am a curious and dedicated person who can't wait to show the world and myself 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 </a>
-
-<br><br>
 <h4>I will look forward to work with you!</h4>
 
 
