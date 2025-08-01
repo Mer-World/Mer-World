@@ -1,3 +1,20 @@
+### 👩‍💻 About Me
+
+I’m **Meronawit Dejene**, a 3rd-year Computer Science student passionate about coding, creativity, and continuous learning.  
+
+### 🏆 Achievements
+- 🎟 Built an event platform with QR ticketing, email confirmations, and fake payment.
+- 🛍 Created an eCommerce dashboard with localStorage & sales charts using JS.
+- ✈️ Developed a 2D game in C++/OpenGL for my graphics course.
+- 📊 Building a mini ERP system with Spring Boot and PostgreSQL.
+
+---
+
+> 🌱 Currently learning: React, Node.js, and advanced algorithms.
+
+
+
+
 <h1 align="center" style="color:green;">🌍 Meronawit Dejene's World</h1>
 
 <p align="center"> 
@@ -60,22 +77,6 @@
 
 ---
 
-### 🏆 Projects & Achievements
 
-- 🌐 Built an **event discovery platform** with fake payment integration, QR code generation, and confirmation email system using PHP + JS.
-- 📦 Created a **responsive eCommerce dashboard** with inventory tracking, localStorage, and interactive charts (vanilla JS).
-- ✈️ Developed **"Airplane Escape!"**, a 2D game using C++ and OpenGL, featuring scoring, power-ups, and dynamic obstacles.
-- 🛠 Currently building a **mini ERP system** using Java, Spring Boot, and PostgreSQL.
-
----
-
-### 📈 Goals
-
-- Learn and build projects with **React + Node.js**
-- Master **Data Structures & Algorithms** for interview preparation
-- Contribute to open-source projects
-- Land a great internship and grow into a strong full-stack developer
-
----
 
 <h4 align="center">Thanks for visiting my world — I’m always open to collaboration and learning from others. Let's connect!</h4>
