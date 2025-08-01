@@ -1,55 +1,81 @@
-<h1 style="color:green;">Meronawit Dejene's World</h1>
+<h1 align="center" style="color:green;">🌍 Meronawit Dejene's World</h1>
 
 <p align="center"> 
-I am a website developer who is passionate about learning and exploring new things.<br> 
-I am a curious and dedicated person who can't wait to show the world and myself what I am capable of.<br><br><br>
+✨ I'm a 3rd-year Computer Science student and a passionate web developer who loves learning, building, and exploring new technologies.<br> 
+🚀 I enjoy solving real-world problems with code and turning ideas into fully working applications.<br>
+🔥 I'm currently focusing on full-stack development and continuously leveling up my skills.<br><br>
 </p>
 
-<h2 style="color:green;"> Languages and Tools</h2>
+---
 
+### 💻 Languages & Tools
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img alt="JavaScript" height="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 </a>
 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img alt="VS Code" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </a>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img alt="Python" height="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img alt="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img alt="HTML5" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img alt="CSS3" height="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 </a>
 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img alt="PHP" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img alt="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
 </a>
 
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img alt="PostgreSQL" height="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </a>
 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </a>
 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+</a>
 
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img alt="IntelliJ" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+  <img alt="IntelliJ IDEA" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
 </a>
 
-</div>
+</p>
 
-<h4>I will look forward to work with you!</h4>
+---
 
+### 🏆 Projects & Achievements
 
+- 🌐 Built an **event discovery platform** with fake payment integration, QR code generation, and confirmation email system using PHP + JS.
+- 📦 Created a **responsive eCommerce dashboard** with inventory tracking, localStorage, and interactive charts (vanilla JS).
+- ✈️ Developed **"Airplane Escape!"**, a 2D game using C++ and OpenGL, featuring scoring, power-ups, and dynamic obstacles.
+- 🛠 Currently building a **mini ERP system** using Java, Spring Boot, and PostgreSQL.
+
+---
+
+### 📈 Goals
+
+- Learn and build projects with **React + Node.js**
+- Master **Data Structures & Algorithms** for interview preparation
+- Contribute to open-source projects
+- Land a great internship and grow into a strong full-stack developer
+
+---
+
+<h4 align="center">Thanks for visiting my world — I’m always open to collaboration and learning from others. Let's connect!</h4>
