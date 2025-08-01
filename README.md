@@ -60,7 +60,4 @@
 
 ---
 
-
----
-
-<h4 align="center">Thanks for visiting my world — I’m always open to collaboration and learning from others. Let's connect!</h4>
+<h4 align="center">Thanks for visiting my world ❤️ I’m always open to collaboration and learning from others. Let's connect!</h4>
