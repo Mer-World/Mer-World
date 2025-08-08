@@ -47,6 +47,16 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
 </a>
+<!-- Docker Logo -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+</a>
+
+<!-- Odoo Logo -->
+<a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
+  <img alt="Odoo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg"/>
+</a>
+
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
