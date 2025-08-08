@@ -49,7 +49,7 @@
 </a>
 <!-- Docker Logo -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img alt="Docker" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"/>
+  <img alt="Docker" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_(container_engine)_logo_without_text.svg"/>
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
