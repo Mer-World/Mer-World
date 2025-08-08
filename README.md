@@ -54,8 +54,9 @@
 
 <!-- Odoo Logo -->
 <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
-  <img alt="Odoo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg"/>
+  <img alt="Odoo" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Odoo_logo.svg"/>
 </a>
+
 
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
