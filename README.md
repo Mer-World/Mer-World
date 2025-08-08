@@ -47,11 +47,9 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
 </a>
-<!-- Docker Logo -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img alt="Docker" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_(container_engine)_logo_without_text.svg"/>
 </a>
-
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </a>
