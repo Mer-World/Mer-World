@@ -49,15 +49,8 @@
 </a>
 <!-- Docker Logo -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="Docker" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"/>
 </a>
-
-<!-- Odoo Logo -->
-<a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
-  <img alt="Odoo" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Odoo_logo.svg"/>
-</a>
-
-
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
