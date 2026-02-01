@@ -73,14 +73,9 @@
 
 
 
-## 🔥 GitHub Streak & Stats
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mer-World&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-  <!-- Optional: GitHub Stats -->
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mer-World&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Mer-World/streak-card/main/streak/streak_$(date +'%Y-%m-%d').svg" alt="GitHub Streak">
 </p>
 
