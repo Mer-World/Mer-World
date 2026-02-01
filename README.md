@@ -3,14 +3,14 @@
 <p align="center"> 
 ✨ I'm a 3rd-year Computer Science student and a passionate web developer who loves learning, building, and exploring new technologies.<br> 
 🚀 I enjoy solving real-world problems with code and turning ideas into fully working applications.<br>
-🔥 I'm currently focusing on full-stack development and continuously leveling up my skills.<br><br>
+🔥 I'm currently focusing on full-stack development and continuously leveling up my skills.
 </p>
 
 ---
 
 ### 💻 Languages & Tools
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -48,8 +48,6 @@
   <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
 </a>
 
-
-<!-- Docker Logo -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 </a>
@@ -68,6 +66,12 @@
 
 <h4 align="center">Thanks for visiting my world ❤️ I’m always open to collaboration and learning from others. Let's connect!</h4>
 
+---
 
+<h2 align="center">🔥 GitHub Streak</h2>
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Mer-World&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)  
+<p align="center">
+  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Mer-World&theme=dark&hide_border=true&fire_color=ff4500" alt="GitHub Streak"/>
+  </a>
+</p>
