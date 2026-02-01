@@ -71,9 +71,28 @@
 
 
 
+# 👋 Hi, I'm Mer-World
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mer-World/streak-card/main/streak/streak.svg" alt="GitHub Streak">
-</p>
+## 🔥 My Daily Coding Streak
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mer-World&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+**Like Snapchat streaks - resets if I miss a day!**
+
+---
+
+## 📊 GitHub Stats
+
+![Mer-World's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mer-World&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mer-World&layout=compact&theme=dark)
+
+---
+
+## 🛠️ Skills
+- Programming
+- Development
+- Learning
+
+⭐ **Check out my repositories below!**
 
