@@ -67,3 +67,9 @@
 ---
 
 <h4 align="center">Thanks for visiting my world ❤️ I’m always open to collaboration and learning from others. Let's connect!</h4>
+
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mer-World&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
