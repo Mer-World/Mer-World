@@ -72,10 +72,8 @@
 
 
 
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mer-World/streak-card/main/streak/streak_$(date +'%Y-%m-%d').svg" alt="GitHub Streak">
+  <img src="https://raw.githubusercontent.com/Mer-World/streak-card/main/streak/streak.svg" alt="GitHub Streak">
 </p>
+
 
