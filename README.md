@@ -69,12 +69,18 @@
 <h4 align="center">Thanks for visiting my world ❤️ I’m always open to collaboration and learning from others. Let's connect!</h4>
 
 
-## 🔥 GitHub Streak
+
+
+
+
+## 🔥 GitHub Streak & Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Mer-World&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mer-World&theme=dark&hide_border=true" alt="GitHub Streak" />
 
+  <!-- Optional: GitHub Stats -->
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mer-World&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
