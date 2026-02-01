@@ -75,3 +75,5 @@
     <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Mer-World&theme=dark&hide_border=true&fire_color=ff4500" alt="GitHub Streak"/>
   </a>
 </p>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Mer-World&theme=dark&hide_border=true&fire_color=ff0000)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
