@@ -1,7 +1,7 @@
 <h1 align="center" style="color:green;">🌍 Meronawit Dejene's World</h1>
 
 <p align="center"> 
-✨ I'm a 3rd-year Computer Science student and a passionate web developer who loves learning, building, and exploring new technologies.<br> 
+✨ I'm a 4th-year Computer Science student and a passionate web developer who loves learning, building, and exploring new technologies.<br> 
 🚀 I enjoy solving real-world problems with code and turning ideas into fully working applications.<br>
 🔥 I'm currently focusing on full-stack development and continuously leveling up my skills.
 </p>
