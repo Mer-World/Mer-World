@@ -68,10 +68,3 @@
 
 ---
 
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Mer-World&theme=dark&hide_border=true&fire_color=ff4500" alt="GitHub Streak"/>
-  </a>
-</p>
